@@ -3,5 +3,5 @@
 
 ### 🤔 Apa itu Journey?
 
-Journey merupakan repository yang saya gunakan untuk menyimpan progress pembelajaran saya dalam mengexplore hal baru.
+Journey merupakan repository yang saya gunakan untuk menyimpan progress pembelajaran saya dalam mengeksplorasi hal baru.
 
